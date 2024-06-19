@@ -1,0 +1,3 @@
+2024-06-19 08:02:36.779 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/coder/.config/hyde/--ozone-platform-hint=wayland","scheme":"file"},"type":1,"exists":false},{"fileUri":{"$mid":1,"path":"/home/coder/.config/hyde/--disable-gpu","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2024-06-19 08:02:37.085 [info] Started local extension host with pid 36087.
+2024-06-19 08:02:40.099 [info] [perf] Render performance baseline is 22ms
